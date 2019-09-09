@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
----
-layout: plain
----
->>>>>>> 1458aca949a1f9bee9757448027ce21e3604c289
 # Titan Community Code of Conduct
 
 ## Our Pledge
