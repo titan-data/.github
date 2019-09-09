@@ -1,4 +1,4 @@
-Please consult the (Contribution Guidelines)[CONTRIBUTING.md], and check for
+Please consult the [Contribution Guidelines](CONTRIBUTING.md), and check for
 any existing open PRs, prior to submitting a pull request.
 
 ## Issues Addressed
